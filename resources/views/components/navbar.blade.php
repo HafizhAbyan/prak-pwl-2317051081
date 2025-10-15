@@ -7,10 +7,10 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link" href="/user">List User</a>
+          <a class="nav-link" href="/matakuliah">MATA KULIAH</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/user/create">Tambah User</a>
+          <a class="nav-link" href="/user">USER</a>
         </li>
       </ul>
     </div>
